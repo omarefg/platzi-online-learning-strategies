@@ -140,3 +140,44 @@ Cuando memorizamos algo tenemos un 90% de probabilidad de olvidarlo.
 
 **Correlaciones mnemotécnicas:** Hacer conexiones de lo aprendido con asuntos cotidianos.
 
+### ¿Cómo mejorar la memoria?
+
+Mejorar la memoria tiene que ver con el estilo de vida.
+
+- Antes de dormir recapitula lo que aprendiste durante el día
+- Duerme bien
+- Haz deportes
+- Haz ejercicios cognitivos
+
+### Chunkings como estrategia
+
+Habilidad para aplicar cuando la información es grande, se trata de fragmentar o dividir la información en trozos.
+
+### ¿Cómo tomar apuntes?
+
+Facilita la organización de tus conocimientos
+
+- Escribir
+- Subrayar
+- Esquematizar
+- Dibujar
+
+### Notas de Cornell
+
+Se divide la hoja en cuatro secciones
+
+- Superior: Temas, materias, titulos
+- Izquierda: Glosario, preguntas, deficiones, conceptos
+- Derecha: Notas, parafrasis
+- Inferior: Resumen, una idea
+
+> La sección de la izquierda es más pequeña que la derecha.
+
+### Cómo incrementar mi velocidad de lectura?
+
+- Reduce movimientos sacádicos
+- Concentrate al máximo para evitar releer
+- Lee en silencio
+- Usa un señalador
+- Visualiza frases completas en lugar de palabras
+
