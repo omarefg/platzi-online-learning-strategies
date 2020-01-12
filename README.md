@@ -181,3 +181,37 @@ Se divide la hoja en cuatro secciones
 - Usa un señalador
 - Visualiza frases completas en lugar de palabras
 
+## Aprendizaje en grupo
+
+- Oportunidad de aprender de otros
+- Exponer tus dudas
+- Compartir tu conocimiento
+- Salir a compartir
+
+> Entre más explicas, más aprendes.
+
+> "Si no puedes explicar algo de forma sencilla es que ni tú mismo lo has entendido lo suficiente" Albert Einstein
+
+ ### Ténica Feynman
+
+ - Elige un tema
+ - Escribe lo aprendido usando paráfrasis y lenguaje sencillo, luego léelo en voz alta
+ - Arregla lo que está bien explicado
+ - Repasa la información e intenta simplificarla todavía más
+
+### Evaluar mi conocimiento
+
+- Corroborar lo que aprendí. Evaluar mi aprendizaje.
+- Lo mejor es que esta evaluación sea aplicada por otra persona.
+- Las evaluaciones deben ser diseñadas con ejemplos diversos que te confronten a la resolución de otro tipo de problemas diferente a lo que aprendiste.
+- Te permitirá completar tu conocimiento y darte la posiblidad de aprender a aplicarlo en más áreas.
+
+### Diálogo en tiempo real
+
+- El diálogo me conduce a la reflexión de mi aprendizaje
+- Comprender el tema
+- Conocer la mayoría de las alternativas
+- Defender tu postura con un argumento
+- Conseguir la aceptación de la otra persona de manera racional
+- Desarrollamos capcacidades lingüisticas
+- Incrementa en un 50% la adquicisión del conocimiento para el día siguiente
